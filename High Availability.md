@@ -1,0 +1,1 @@
+[Azure](Azure.md) has [[Availability Zones]]

@@ -1,0 +1,1 @@
+Azure region maps: [Azure global infrastructure experience (microsoft.com)](https://datacenters.microsoft.com/globe/explore)

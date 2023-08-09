@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John Savill Az 900 Playlist.md",
+                "file": "Benefits of Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John Savill Az 900 Playlist.md",
+                "file": "Benefits of Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "John Savill Az 900 Playlist.md",
+                "file": "Benefits of Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "John Savill Az 900 Playlist.md"
+                "file": "Benefits of Cloud Computing.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "9a3782632b957d75",
   "lastOpenFiles": [
-    "README.md",
+    "High Availability.md",
+    "Benefits of Cloud Computing.md",
+    "Cloud.md",
+    "Azure.md",
+    "On Premises.md",
     "Az 900.md",
     "John Savill Az 900 Playlist.md",
+    "README.md",
     "sources"
   ]
 }
