@@ -2,11 +2,11 @@
 
 [Describe cloud concepts](Describe%20cloud%20concepts)
 
-[[Cloud]]
+[[Cloud Computing]]
 
 - Agility
 	- [On Premises](On%20Premises.md) you need to get the most of each equipment you buy
-	- [Cloud](Cloud.md) can increase or decrease capacity as requirements change
+	- [Cloud Computing](Cloud%20Computing.md) can increase or decrease capacity as requirements change
 - [[High Availability]]
 - [[Disaster Recovery]]
 - [[Scalability]]

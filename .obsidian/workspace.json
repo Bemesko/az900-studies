@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46c41f77810bcdc0",
+        "id": "1ff1fba5918fc3af",
         "type": "tabs",
         "children": [
           {
-            "id": "9a3782632b957d75",
+            "id": "ad68c30a23214206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benefits of Cloud Computing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benefits of Cloud Computing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benefits of Cloud Computing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benefits of Cloud Computing.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,16 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a3782632b957d75",
+  "active": "ad68c30a23214206",
   "lastOpenFiles": [
-    "High Availability.md",
+    "Pasted image 20230817220344.png",
+    "Infrastructure as a Service.md",
+    "Describe Azure architecture and services.md",
+    "Describe cloud concepts.md",
+    "Describe Azure management and governance.md",
     "Benefits of Cloud Computing.md",
-    "Cloud.md",
-    "Azure.md",
-    "On Premises.md",
+    "Cloud Computing.md",
     "Az 900.md",
-    "John Savill Az 900 Playlist.md",
     "README.md",
+    "Azure.md",
+    "High Availability.md",
+    "On Premises.md",
+    "John Savill Az 900 Playlist.md",
     "sources"
   ]
 }
