@@ -9,7 +9,7 @@
 - [ ] Describe the [Consumption Based Model](Consumption%20Based%20Model)
 - [ ] Compare [[Cloud Pricing]] Models
 - [ ] Describe [[Serverless Computing]]
-#### Describe the benefits of using cloud services
+#### Describe the [[Benefits of Cloud Computing|benefits of using cloud services]]
 - [ ] Describe the benefits of [[high availability]] and [[scalability]] in the cloud
 - [ ] Describe the benefits of [[reliability]] and [[predictability]] in the cloud
 - [ ] Describe the benefits of [[security]] and [[governance]] in the cloud
@@ -18,4 +18,4 @@
 - [ ] Describe [[Infrastructure as a Service]] (IaaS)
 - [ ] Describe [[Platform as a Service]] (PaaS)
 - [ ] Describe [[Software as a Service]] (SaaS)
-- [ ] Identify appropriate [[use cases for each cloud service]] (IaaS, PaaS, and SaaS)
+- [ ] Identify appropriate [[Cloud Service Types|use cases for each cloud service]] (IaaS, PaaS, and SaaS)

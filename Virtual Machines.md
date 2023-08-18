@@ -1,0 +1,3 @@
+---
+alias: Virtual Machine, VM
+	---

@@ -11,10 +11,10 @@
 - [ ] Describe [[management groups]]
 - [ ] Describe the [[hierarchy of resource groups, subscriptions, and management groups|Resource Hierarchy]]
 #### Describe Azure compute and networking services
-- [ ] Compare [[compute types]], including [[containers]], [[virtual machines]], and [[functions]]
+- [ ] Compare [[compute types]], including [[containers]], [[Virtual Machines]], and [[functions]]
 - [ ] Describe [[virtual machine]] options, including [[Azure virtual machines]], [[Azure Virtual Machine Scale Sets]], [[availability sets]], and [[Azure Virtual Desktop]]
 - [ ] Describe the [[resources required for virtual machines]]
-- [ ] Describe [[application hosting options]], including [[web apps]], [[containers]], and [[virtual machines]]
+- [ ] Describe [[application hosting options]], including [[web apps]], [[containers]], and [[Virtual Machines]]
 - [ ] Describe [[virtual networking]], including the purpose of [[Azure virtual networks]], [[Azure virtual subnets]], [[peering]], [[Azure DNS]], [[Azure VPN Gateway]], and [[ExpressRoute]]
 - [ ] Define [[Public Endpoints]] and [[Private Endpoints]]
 #### Describe Azure storage services

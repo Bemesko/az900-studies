@@ -2,5 +2,6 @@
   "vimMode": true,
   "useMarkdownLinks": true,
   "strictLineBreaks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "media"
 }
