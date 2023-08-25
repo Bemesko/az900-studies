@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1692920483324,
+      "path": "Az 900.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1692920472058,
+      "path": "Describe cloud concepts.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1692920477416,
+      "path": "Describe Azure architecture and services.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1692920480572,
+      "path": "Describe Azure management and governance.md"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+- Set of technologies to manage a [Cloud Computing](Cloud%20Computing.md) environment
+- Cloud type can be [Public Cloud](Public%20Cloud.md), [Private Cloud](Private%20Cloud.md), [Hybrid Cloud](Hybrid%20Cloud.md) or even [MultiCloud](MultiCloud.md)

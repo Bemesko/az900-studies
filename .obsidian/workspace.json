@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47791379887e6e18",
+        "id": "731c3b27065ed756",
         "type": "tabs",
         "children": [
           {
-            "id": "3e03f018f39918df",
+            "id": "b089db716d7b257b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Describe cloud concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61cbfb6a1079cf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infrastructure as a Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6a4aed12f1d20a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Machines.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Machines.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Machines.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Machines.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,27 +149,37 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e6a4aed12f1d20a4",
+  "active": "b089db716d7b257b",
   "lastOpenFiles": [
+    "media/Pasted image 20230824212748.png",
+    "Describe cloud concepts.md",
+    "Hybrid Cloud.md",
+    "Azure VMware Solution.md",
+    "Shared Responsibility.md",
+    "Consumption Based Model.md",
+    "OpEx.md",
+    "CapEx.md",
+    "Azure Arc.md",
+    "Cloud Models.md",
+    "MultiCloud.md",
+    "Multi-cloud.md",
+    "Private Cloud.md",
+    "Public Cloud.md",
+    "Security.md",
+    "media/Pasted image 20230824210711.png",
+    "Cloud Provider.md",
+    "Cloud Computing.md",
+    "Governance.md",
+    "Serverless Computing.md",
+    "Cloud Pricing.md",
+    "Az 900.md",
+    "Describe Azure management and governance.md",
+    "Describe Azure architecture and services.md",
     "Infrastructure as a Service.md",
     "Virtual Machines.md",
-    "Shared Responsibility.md",
     "Cloud Service Types.md",
-    "Describe cloud concepts.md",
-    "On Premises.md",
-    "Scalability.md",
-    "High Availability.md",
-    "Consumption Based Model.md",
-    "Describe Azure architecture and services.md",
-    "README.md",
     "media",
     "media/Pasted image 20230817220344.png",
-    "Describe Azure management and governance.md",
-    "Benefits of Cloud Computing.md",
-    "Cloud Computing.md",
-    "Az 900.md",
-    "Azure.md",
-    "John Savill Az 900 Playlist.md",
     "sources"
   ]
 }

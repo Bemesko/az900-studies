@@ -1,8 +1,11 @@
 **Cloud computing is pretty much running your stuff on other people's computers**
 
-similar to [[On Premises]], because it is mostly capacity
+> [!cite] 
+> Cloud computing is the delivery of computing services over the internet
 
-The difference is that capacity is distributed in various [[Data Center]]s
+- [[On Premises]]
+	- Similar because both offer capacity of computing
+	- Different because the cloud is not restrained by the physical barriers of a single [Data Center](Data%20Center)
 
 [[Azure]]
 

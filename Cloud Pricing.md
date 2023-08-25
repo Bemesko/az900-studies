@@ -1,0 +1,5 @@
+- [OpEx](OpEx) -> Operational Expenditure
+- Pricing of resources is consumption-based, meaning you pay for what you use
+- There can be fixed fees alongside consumption based fees
+- Usually there is a way to make reservations and get discounts
+- [[Hybrid Licensing]] can help lower prices if company already has on premises infrastructure

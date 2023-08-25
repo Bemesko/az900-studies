@@ -1,0 +1,4 @@
+- [[Azure Functions]]
+- Usually in the cloud, if you have an application you pay for a provisioned server in which to run it (managed by you or not)
+- Serverless computing takes the [Cloud Pricing](Cloud%20Pricing.md) model to the next level, because the user only pays for the amount of computing power their code uses, instead of the underlying infrastructure
+- For heavy workloads it's usually better to use a server because serverless tends to be more expensive
