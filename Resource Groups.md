@@ -1,0 +1,1 @@
+- Logical groupings for [Azure resources](Azure%20resources)

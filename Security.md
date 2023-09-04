@@ -1,3 +1,3 @@
-Why can the [Cloud Computing](Cloud%20Computing.md) be more secure?
+Why can the [Cloud](Cloud%20Computing.md) be more secure?
 - with [Platform as a Service](Platform%20as%20a%20Service) the underlying operational systems are the responsibility of the [Cloud Provider](Cloud%20Provider), so there is one less window of attack
-- 
+- Since the cloud is supposed to be used over the internet, [Cloud Provider](Cloud%20Provider.md)s are usually well suited for handling common attacks

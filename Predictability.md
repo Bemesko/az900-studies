@@ -1,0 +1,13 @@
+- When you deploy something to the [Cloud](Cloud%20Computing.md) you can be sure that it will work and cost as advertised
+- This is also influenced by the [Microsoft Azure Well-Architected Framework](Microsoft%20Azure%20Well-Architected%20Framework)
+- Types of Predictability
+	- Performance
+		- Predicting the resources needed to deliver a positive experience to customers
+		- [Auto Scaling](Auto%20Scaling)
+		- [Load Balancing](Load%20Balancing)
+		- [High Availability](High%20Availability.md)
+	- Cost
+		- Forecasting how much you will spend for usage of the cloud
+		- Real time monitoring for resource usage
+		- [TCO Calculator](TCO%20Calculator)
+		- [Azure Pricing Calculator](Azure%20Pricing%20Calculator)

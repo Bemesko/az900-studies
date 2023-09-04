@@ -1,3 +1,6 @@
+---
+alias: Cloud
+---
 **Cloud computing is pretty much running your stuff on other people's computers**
 
 > [!cite] 

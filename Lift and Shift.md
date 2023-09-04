@@ -1,0 +1,1 @@
+- Taking what's running [On Premises](On%20Premises.md), creating a similar environment on the [Cloud](Cloud%20Computing.md) and moving everything into it

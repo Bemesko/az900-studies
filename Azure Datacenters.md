@@ -1,0 +1,2 @@
+- Same thing as corporate [Data Center](Data%20Center)s but specific to [Azure](Azure.md)
+- Cannot be accessed directly, instead each datacenter is part of a larger [Azure Region](Azure%20Region.md) or [Availability Zones](Availability%20Zones.md)

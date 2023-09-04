@@ -1,0 +1,5 @@
+- Different [Azure](Azure.md) resources have different SLAs
+- 100% SLA is a service with 0 downtime whatsoever, which is frakly unrealistic
+- The more common SLAs in [Azure](Azure.md) are of 99%, 99.9% and 99.95% uptime
+- 99% means 7,2 hours of downtime per month
+- 99.9% means 43,2 minutes of downtime per month

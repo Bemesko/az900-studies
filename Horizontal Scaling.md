@@ -1,0 +1,2 @@
+- Horizontal Scaling means increasing the amount of processing units for a workload
+- This can achieve a more granular approach to [Scalability](Scalability.md) since you don't always need to double your processing power, the unit you add can be a bit less powerful than the other ones

@@ -1,0 +1,3 @@
+- Vertical scaling refers to the processing power of a single unit of processing
+- Scaling a [VM](Virtual%20Machine.md) vertically means increasing or decreasing its compute power, such as [[vCPUs]] and [[RAM]]
+- This type of [Scalability](Scalability.md) usually has a big difference between sizes, [Azure virtual machines](Azure%20virtual%20machines) can only double or cut their computing power in half when scaling (assuming you're staying in the same series)

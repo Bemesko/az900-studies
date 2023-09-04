@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "alwaysUpdateLinks": true
 }

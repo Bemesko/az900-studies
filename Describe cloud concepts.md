@@ -10,15 +10,15 @@
 - [x] Compare [[Cloud Pricing]] Models
 - [ ] Describe [[Serverless Computing]]
 #### Describe the [[Benefits of Cloud Computing|benefits of using cloud services]]
-- [ ] Describe the benefits of [[high availability]] and [[scalability]] in the cloud
-- [ ] Describe the benefits of [[reliability]] and [[predictability]] in the cloud
-- [ ] Describe the benefits of [[Security]] and [[Governance]] in the cloud
-- [ ] Describe the benefits of [[manageability]] in the cloud
+- [x] Describe the benefits of [[high availability]] and [[scalability]] in the cloud
+- [x] Describe the benefits of [[Reliability]] and [[Predictability]] in the cloud
+- [x] Describe the benefits of [[Security]] and [[Governance]] in the cloud
+- [x] Describe the benefits of [[Manageability]] in the cloud
 #### Describe cloud service types
-- [ ] Describe [[Infrastructure as a Service]] (IaaS)
-- [ ] Describe [[Platform as a Service]] (PaaS)
-- [ ] Describe [[Software as a Service]] (SaaS)
-- [ ] Identify appropriate [[Cloud Service Types|use cases for each cloud service]] (IaaS, PaaS, and SaaS)
+- [x] Describe [[Infrastructure as a Service]] (IaaS)
+- [x] Describe [[Platform as a Service]] (PaaS)
+- [x] Describe [[Software as a Service]] (SaaS)
+- [x] Identify appropriate [[Cloud Service Types|use cases for each cloud service]] (IaaS, PaaS, and SaaS)
 
 **Related Topics**
 [Azure Arc](Azure%20Arc)

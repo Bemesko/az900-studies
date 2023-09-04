@@ -1,0 +1,5 @@
+- Instances of Azure that are isolated from the main instance of [Azure](Azure.md)
+- Mainly used for compliance and legal purposes
+- Examples
+	- US government Azure instances
+	- China regions whose datacenters are operated by a chinese [Microsoft](Microsoft) partner

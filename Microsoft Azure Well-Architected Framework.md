@@ -1,0 +1,1 @@
+[Build great solutions with the Microsoft Azure Well-Architected Framework - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)

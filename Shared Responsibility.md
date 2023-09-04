@@ -15,7 +15,7 @@ In a general sense we need the following (from higher to lower level) to deliver
 1. Application
 1. Runtime
 1. Operational System
-1. Hypervisor/[Virtual Machine](Virtual%20Machines.md)
+1. Hypervisor/[Virtual Machine](Virtual%20Machine.md)
 1. Compute
 1. Network
 1. Storage

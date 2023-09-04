@@ -1,0 +1,12 @@
+- All regions in [Azure](Azure.md) have a region pair within the same sovereign authority
+- Region pairs need to be at least 300 miles away
+- The exception to this rule is Brazil South, which replicates to South Central US because at the time Brazil only had 1 region
+- Usefulness:
+	- Distribution of workloads across large distances helps reduce the likelihood of interruptions
+	- Data is replicated between them, for some services even automatically
+	- When [Azure](Azure.md) rolls out updates or new features, it always tests it on one of the regions and then the other, so if the feature has problems things can be moved to the corresponding region
+	- If a large outage occurs for Azure, one region out of every pair is prioritized to make sure at least one is restore as quickly as possible
+	- Data is replicated and stored in a redundant manner, while still being kept within the same geographical boundary for jurisdiction purposes
+- Directions
+	- Most region pairs are each other's backup (bidirectional)
+	- Some regions are paired in only 1 direction, such as West India and Brazil South

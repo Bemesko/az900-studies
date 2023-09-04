@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "731c3b27065ed756",
+        "id": "29d68b004a97807e",
         "type": "tabs",
         "children": [
           {
-            "id": "b089db716d7b257b",
+            "id": "04542f47947a2406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Describe Azure architecture and services.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,6 +67,48 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "69f071c992929a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e19ed12e5b7b07",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Describe Azure architecture and services.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012119,
+                  "close": true
+                }
+              }
+            }
+          }
         ]
       }
     ],
@@ -87,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Describe Azure architecture and services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Describe Azure architecture and services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Describe Azure architecture and services.md"
               }
             }
           }
@@ -149,35 +191,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b089db716d7b257b",
+  "active": "04542f47947a2406",
   "lastOpenFiles": [
-    "media/Pasted image 20230824212748.png",
-    "Describe cloud concepts.md",
-    "Hybrid Cloud.md",
-    "Azure VMware Solution.md",
-    "Shared Responsibility.md",
-    "Consumption Based Model.md",
-    "OpEx.md",
-    "CapEx.md",
-    "Azure Arc.md",
-    "Cloud Models.md",
-    "MultiCloud.md",
-    "Multi-cloud.md",
-    "Private Cloud.md",
-    "Public Cloud.md",
-    "Security.md",
-    "media/Pasted image 20230824210711.png",
-    "Cloud Provider.md",
-    "Cloud Computing.md",
-    "Governance.md",
-    "Serverless Computing.md",
-    "Cloud Pricing.md",
-    "Az 900.md",
-    "Describe Azure management and governance.md",
+    "Azure Datacenters.md",
     "Describe Azure architecture and services.md",
+    "Azure Region.md",
+    "Availability Zones.md",
+    "Region Pairs.md",
+    "Sovereign Regions.md",
+    "Describe cloud concepts.md",
+    "Azure.md",
+    "Subscriptions.md",
+    "Resource Groups.md",
+    "Describe Azure management and governance.md",
     "Infrastructure as a Service.md",
-    "Virtual Machines.md",
+    "Software as a Service.md",
+    "Platform as a Service.md",
+    "Lift and Shift.md",
+    "Shared Responsibility.md",
     "Cloud Service Types.md",
+    "Manageability.md",
+    "Microsoft Azure Well-Architected Framework.md",
+    "Scalability.md",
+    "Governance.md",
+    "Security.md",
+    "Virtual Machines.md",
+    "Predictability.md",
+    "Virtual Machine.md",
+    "Reliability.md",
+    "media/Pasted image 20230824212748.png",
+    "media/Pasted image 20230824210711.png",
     "media",
     "media/Pasted image 20230817220344.png",
     "sources"
