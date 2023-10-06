@@ -1,0 +1,1 @@
+- Basically anything that can be created in Azure is represented as a resource

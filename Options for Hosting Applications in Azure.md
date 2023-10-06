@@ -1,0 +1,3 @@
+- [[Azure App Service]]
+- [Containers](Containers.md)
+- [Azure Virtual Machines](Azure%20Virtual%20Machines.md)

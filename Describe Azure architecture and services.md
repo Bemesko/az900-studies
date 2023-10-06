@@ -7,15 +7,15 @@
 - [x] Describe [[Availability Zones]]
 - [x] Describe [[Azure Datacenters]]
 **Management Infrastructure**
-- [ ] Describe [[Azure resources]] and [[Resource Groups]]
-- [ ] Describe [[Subscriptions]]
-- [ ] Describe [[management groups]]
-- [ ] Describe the [[hierarchy of resource groups, subscriptions, and management groups|Resource Hierarchy]]
+- [x] Describe [[Azure resources]] and [[Resource Groups]]
+- [x] Describe [[Subscriptions]]
+- [x] Describe [[Management Groups]]
+- [x] Describe the [[Hierarchy of resource groups, subscriptions, and management groups|Resource Hierarchy]]
 #### Describe [Azure](Azure.md) compute and networking services
-- [ ] Compare [[compute types]], including [[containers]], [Virtual Machines](Virtual%20Machine.md), and [Azure Functions](Azure%20Functions)
-- [ ] Describe [[virtual machine]] options, including [[Azure virtual machines]], [[Azure Virtual Machine Scale Sets]], [[availability sets]], and [[Azure Virtual Desktop]]
-- [ ] Describe the [[resources required for virtual machines]]
-- [ ] Describe [[application hosting options]], including [[web apps]], [[containers]], and [Virtual Machines](Virtual%20Machine.md)
+- [ ] Compare [[compute types]], including [[Containers]], [Virtual Machines](Virtual%20Machine.md), and [Azure Functions](Azure%20Functions)
+- [ ] Describe [[virtual machine]] options, including [[Azure Virtual Machines]], [[Azure Virtual Machine Scale Sets]], [[availability sets]], and [[Azure Virtual Desktop]]
+- [ ] Describe the [[Resources Required for Azure Virtual Machines]]
+- [ ] Describe [[Options for Hosting Applications in Azure]], including [[web apps]], [[Containers]], and [Virtual Machines](Virtual%20Machine.md)
 - [ ] Describe [[virtual networking]], including the purpose of [[Azure virtual networks]], [[Azure virtual subnets]], [[peering]], [[Azure DNS]], [[Azure VPN Gateway]], and [[ExpressRoute]]
 - [ ] Define [[Public Endpoints]] and [[Private Endpoints]]
 #### Describe [Azure](Azure.md) storage services

@@ -1,1 +1,5 @@
 - Unit of agreement between [[Microsoft]] and the cloud customer for payment purposes
+- Useful for grouping [Resource Groups](Resource%20Groups.md) and facilitate their management and billing
+- Subscriptions have certain size limitations that define whether you should consider separating resources into more subscriptions
+- Every subscription trusts an [Azure Active Directory](Azure%20Active%20Directory) tenant
+- A single Azure account can have multiple subscriptions, and they can be useful for separate billing or access control

@@ -1,0 +1,15 @@
+---
+aliases:
+  - Azure Virtual Machine Resources
+---
+- Size
+	- Number of processor cores (vCPUs)
+	- RAM
+- Storage Disks
+	- Hard disk drives
+	- Solid State Drives
+	- provided by [Azure Managed Disks](Azure%20Managed%20Disks)
+- Networking
+	- Network interface cards
+	- IP Addresses
+	- Port configuration

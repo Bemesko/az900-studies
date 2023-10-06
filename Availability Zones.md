@@ -7,7 +7,7 @@
 
 ## Services that support Availability Zones
 - Zonal Services: Each resource needs to be assigned to a specific zone
-	- [Azure virtual machines](Azure%20virtual%20machines)
+	- [Virtual Machines](Virtual%20Machine.md)
 	- [[Azure Managed Disks]]
 	- IP Addresses
 - Zone-redundant services: The platform itself automatically replicates across zones

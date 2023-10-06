@@ -1,0 +1,8 @@
+- [PaaS](Platform%20as%20a%20Service.md) solution for [Azure Virtual Machines](Azure%20Virtual%20Machines.md) hosted in [Azure](Azure.md)
+- Other types of compute resources are PaaS in the sense that they provide a platform to host other stuff that provides value; Azure Virtual Machines **is** the value. The value of having remote desktops available in the business.
+- Can be setup without the IT overhead of creating virtual machines
+- Separate a user license from the desktop hardware
+- Can be accessed by almost every device
+- Centralized security management with [Azure RBAC](Azure%20RBAC) and integration into [Azure Active Directory](Azure%20Active%20Directory)
+- Desktops can be either single or multi session
+	- Azure Virtual Desktop has support for Windows 10 or 11 Enterprise Multi-Session, the only [[Windows]] OS with support for multiple users in a single [Virtual Machine](Virtual%20Machine.md)

@@ -1,0 +1,5 @@
+- [Serverless Computing](Serverless%20Computing.md) alternative in Azure directed for developers, people that write code
+- You can deploy your code but still have the benefits of serverless computing (specially the event driven factors)
+- Commonly triggered by an HTTP request from another [Azure](Azure.md) service
+- Can be either stateful or stateless
+- Good because code is code, if necessary it can be deployed in a non serverless environment
