@@ -4,7 +4,7 @@ I ended up passing the exam and getting the Azure Fundamentals certification, th
 
 **This vault as of october 23, 2023:**
 
-![](Pasted%20image%2020231023082243.png)
+![](media/Pasted%20image%2020231023082243.png)
 
 The target audience for these notes is me, so there might be some portuguese along with the english notes;
 
