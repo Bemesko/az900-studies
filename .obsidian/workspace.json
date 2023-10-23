@@ -11,13 +11,8 @@
             "id": "aa2647b04787225f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Az 900.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Az 900.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Az 900.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Az 900.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Az 900.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,9 +193,14 @@
   },
   "active": "aa2647b04787225f",
   "lastOpenFiles": [
+    "Defense in Depth Model.md",
+    "media/Pasted image 20231009194125.png",
+    "Az 900.md",
+    "Microsoft Purview.md",
+    "media/Pasted image 20231009193427.png",
+    "Azure Policy.md",
     "Azure Advisor.md",
     "media/Pasted image 20231005222126.png",
-    "Az 900.md",
     "Azure Monitor.md",
     "Azure Active Directory Domain Services.md",
     "Azure Cost Management.md",
@@ -231,14 +226,9 @@
     "Azure Virtual Machine Availability Sets.md",
     "Azure Virtual Machines.md",
     "media/Pasted image 20230904213339.png",
-    "Availability Zones.md",
-    "Hierarchy of resource groups, subscriptions, and management groups.md",
-    "Management Groups.md",
     "media/Pasted image 20230904211952.png",
     "media/Pasted image 20230824212748.png",
-    "media/Pasted image 20230824210711.png",
     "media",
-    "media/Pasted image 20230817220344.png",
     "sources"
   ]
 }
